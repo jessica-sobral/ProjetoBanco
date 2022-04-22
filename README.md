@@ -1,6 +1,6 @@
 # Projeto Banco
 
-Aplicação console para criar contas bancárias.
+Aplicação console - contas bancárias.
 
 ## Funcionalidades
 
