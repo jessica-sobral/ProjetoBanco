@@ -1,6 +1,6 @@
 # Projeto Banco
 
-Aplicação console - contas bancárias.
+Aplicação console em contas bancárias.
 
 ## Funcionalidades
 
